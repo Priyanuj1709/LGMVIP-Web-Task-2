@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/LGMVIP-Web-Task-1/static/css/main.801c823b.css",
-    "main.js": "/LGMVIP-Web-Task-1/static/js/main.de1e4792.js",
-    "static/js/787.97a945da.chunk.js": "/LGMVIP-Web-Task-1/static/js/787.97a945da.chunk.js",
-    "index.html": "/LGMVIP-Web-Task-1/index.html",
-    "main.801c823b.css.map": "/LGMVIP-Web-Task-1/static/css/main.801c823b.css.map",
-    "main.de1e4792.js.map": "/LGMVIP-Web-Task-1/static/js/main.de1e4792.js.map",
-    "787.97a945da.chunk.js.map": "/LGMVIP-Web-Task-1/static/js/787.97a945da.chunk.js.map"
+    "main.css": "/LGMVIP-Web-Task-2/static/css/main.c4b24f2f.css",
+    "main.js": "/LGMVIP-Web-Task-2/static/js/main.0796ef01.js",
+    "index.html": "/LGMVIP-Web-Task-2/index.html",
+    "main.c4b24f2f.css.map": "/LGMVIP-Web-Task-2/static/css/main.c4b24f2f.css.map",
+    "main.0796ef01.js.map": "/LGMVIP-Web-Task-2/static/js/main.0796ef01.js.map"
   },
   "entrypoints": [
-    "static/css/main.801c823b.css",
-    "static/js/main.de1e4792.js"
+    "static/css/main.c4b24f2f.css",
+    "static/js/main.0796ef01.js"
   ]
 }
